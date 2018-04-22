@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include<iostream>
 int main()
 {
     int n,i,len1,len2,j,k,pi,t,flag;
