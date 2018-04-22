@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/Huffman_han/main.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/schedule/hello.cpp
+
+/home/bruce/workspace_all/workspace_for_clion/schedule/main.cpp
+string.h
+-
+ctype.h
+-
+malloc.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+iostream
+-
+

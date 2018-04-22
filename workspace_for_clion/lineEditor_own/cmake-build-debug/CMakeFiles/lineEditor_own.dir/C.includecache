@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/lineEditor_own/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+

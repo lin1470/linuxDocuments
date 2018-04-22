@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/schedule.dir/main.cpp.o CMakeFiles/schedule.dir/hello.cpp.o  -o schedule 

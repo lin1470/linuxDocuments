@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/complier.dir/main.cpp.o  -o complier 

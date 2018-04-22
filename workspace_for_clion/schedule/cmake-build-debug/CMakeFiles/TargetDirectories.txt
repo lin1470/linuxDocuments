@@ -1,0 +1,3 @@
+/home/bruce/workspace_all/workspace_for_clion/schedule/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bruce/workspace_all/workspace_for_clion/schedule/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bruce/workspace_all/workspace_for_clion/schedule/cmake-build-debug/CMakeFiles/schedule.dir

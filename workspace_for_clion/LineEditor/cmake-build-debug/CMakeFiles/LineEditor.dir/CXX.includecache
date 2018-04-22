@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/LineEditor/main.cpp
+stdio.h
+-
+math.h
+-
+malloc.h
+-
+string.h
+-
+stdlib.h
+-
+

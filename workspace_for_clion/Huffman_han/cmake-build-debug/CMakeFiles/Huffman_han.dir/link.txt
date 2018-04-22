@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Huffman_han.dir/main.cpp.o  -o Huffman_han 

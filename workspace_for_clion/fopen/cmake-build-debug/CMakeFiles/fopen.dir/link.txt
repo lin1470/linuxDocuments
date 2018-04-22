@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/fopen.dir/hh/hello.cpp.o CMakeFiles/fopen.dir/hello/hello.cpp.o  -o fopen 

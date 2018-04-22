@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bruce/workspace_all/workspace_for_clion/compile2/main.cpp
+iostream
+-
+cstring
+-
+cstdio
+-
+vector
+-
+stack
+-
+map
+-
+set
+-
+algorithm
+-
+string
+-
+cstdlib
+-
+cctype
+-
+
